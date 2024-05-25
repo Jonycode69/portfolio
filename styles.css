@@ -10,6 +10,7 @@ body {
     background: #006769;
     color: #ffff;
     overflow-x: hidden;
+    scroll: smooth;
 }
 .nav-bar {
     display: flex;
