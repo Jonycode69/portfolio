@@ -370,7 +370,7 @@ label {
     .about-img {
         width: 200px;
         height: 200px;
-        margin-top: 10px;
+        margin-top: 20px;
     }
     .about-text {
         width: 50%;
@@ -379,7 +379,7 @@ label {
         margin-left: 80px;
     }
     .contact-text p {
-        margin-left: 50px;
+        margin-left: 100px;
     }
     .skills {
       width: 100vw;
@@ -393,13 +393,13 @@ label {
         font-size: 0.8rem;
     }
     .skills {
-        height: 70vh;
+        height: 60vh;
     }
     .contact {
-        height: 70vh;
+        height: 60vh;
     }
     .about {
-       height: 70vh;
+       height: 60vh;
     }
 }
 
