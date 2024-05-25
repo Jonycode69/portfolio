@@ -342,22 +342,8 @@ label {
         flex-direction: column;
         margin-top: 40px;
         border-radius: 10px; 
-        /*
-        animation-name: nav-link;
-        animation-timing-function: linear;
-        animation-duration: 10s;
-        animation-iteration-count: infinite;
-    
-    }
-    @keyframes nav-link {
-      100% {
-        opacity: 0;
-       
-      }
-*/
     }
    
-    
     .nav-text {
         margin-right: ;
         font-size: 0.9rem;
@@ -391,7 +377,7 @@ label {
     }
     .skills {
       width: 100vw;
-      
+      margin-top: 100px;
         font-size: 0.8rem;
     }
     .skill-shape {
