@@ -375,6 +375,12 @@ label {
     .about-text {
         width: 50%;
     }
+    skill-content {
+        margin-left: 80px;
+    }
+    .contact-text p {
+        margin-left: 50px;
+    }
     .skills {
       width: 100vw;
       margin-top: 100px;
